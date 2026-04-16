@@ -1,0 +1,72 @@
+# 2026/04/15 23:43:29.788875 [TestProperty9_SQLiteRoundTrip] [rapid] draw id_p1: 0
+# 2026/04/15 23:43:29.806083 [TestProperty9_SQLiteRoundTrip] [rapid] draw id_p2: 0
+# 2026/04/15 23:43:29.806083 [TestProperty9_SQLiteRoundTrip] [rapid] draw id_p3: 0
+# 2026/04/15 23:43:29.806083 [TestProperty9_SQLiteRoundTrip] [rapid] draw id_p4: 0
+# 2026/04/15 23:43:29.806083 [TestProperty9_SQLiteRoundTrip] [rapid] draw id_p5: 0
+# 2026/04/15 23:43:29.806083 [TestProperty9_SQLiteRoundTrip] [rapid] draw name: "A"
+# 2026/04/15 23:43:29.806083 [TestProperty9_SQLiteRoundTrip] [rapid] draw gender: "male"
+# 2026/04/15 23:43:29.806083 [TestProperty9_SQLiteRoundTrip] [rapid] draw gender_probability: 1
+# 2026/04/15 23:43:29.806083 [TestProperty9_SQLiteRoundTrip] [rapid] draw sample_size: 1
+# 2026/04/15 23:43:29.806083 [TestProperty9_SQLiteRoundTrip] [rapid] draw age: 0
+# 2026/04/15 23:43:29.806083 [TestProperty9_SQLiteRoundTrip] [rapid] draw age_group: "child"
+# 2026/04/15 23:43:29.806083 [TestProperty9_SQLiteRoundTrip] [rapid] draw country_id: "AA"
+# 2026/04/15 23:43:29.806083 [TestProperty9_SQLiteRoundTrip] [rapid] draw country_probability: 1
+# 2026/04/15 23:43:29.806083 [TestProperty9_SQLiteRoundTrip] [rapid] draw created_at_offset: 0
+# 2026/04/15 23:43:29.806083 [TestProperty9_SQLiteRoundTrip] Insert failed: Binary was compiled with 'CGO_ENABLED=0', go-sqlite3 requires cgo to work. This is a stub
+# 
+v0.4.8#14546045523517355243
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
